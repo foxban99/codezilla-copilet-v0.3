@@ -17,8 +17,8 @@
 2. **استنساخ المستودع**:
    - افتح نافذة **Terminal** (أو **CMD** في Windows مع صلاحيات المسؤول) واكتب الأمر التالي:
      ```
-     git clone https://github.com/foxban99/codezilla-copilet-v0.2.git
-     ```
+  git clone https://github.com/foxban99/codezilla-copilet-v0.3.git
+
    - قم بإعادة تسمية الملف **.env.example** إلى **.env.local** وأضف مفاتيح API الخاصة بـ LLM.
 
 3. **تثبيت التبعيات**:
